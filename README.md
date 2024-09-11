@@ -1,6 +1,6 @@
-# Arman Bhatia 
+# Arman Bhatia
 
-![Tech Banner](https://your-image-url.com/tech-banner.jpg)
+
 
 ## 👨‍💻 Software Developer | Frontend Developer
 
@@ -16,7 +16,7 @@
 #### SME (Subject Matter Expert) - NEWPAGE SOLUTIONS, Texas, USA (Jun 2021 - Dec 2023)
 
 - Developed in-house web applications using Node, HTML/CSS
-- Facilitated design thinking workshops for senior executives
+- Facilitated design thinking workshops for senior executives  
 
 #### Junior Frontend Developer - KOCHAR TECH, Amritsar, India (Jun 2017 - Jan 2019)
 
@@ -34,6 +34,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-✓-orange?style=flat&logo=java)
+![Redux](https://img.shields.io/badge/Redux-✓-764ABC?style=flat&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-✓-38B2AC?style=flat&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/Figma-✓-F24E1E?style=flat)
 
 ---
 
