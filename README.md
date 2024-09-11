@@ -6,9 +6,6 @@
 
 📍 Ottawa, Ontario, Canada | 📞 +1 5144485939 | 📧 arman.bhatia.1407@gmail.com | [LinkedIn](https://www.linkedin.com/in/arman-bhatia/) | [Portfolio](https://portfolioo-arman.netlify.app/)
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
-
 ---
 
 ### 💼 Work Experience
