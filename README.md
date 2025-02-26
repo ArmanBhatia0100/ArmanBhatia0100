@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Software Developer | Frontend Developer
 
-📍 Ottawa, Ontario, Canada | 📞 +1 5144485939 | 📧 arman.bhatia.1407@gmail.com | [LinkedIn](https://www.linkedin.com/in/arman-bhatia/) | [Portfolio](https://portfolioo-arman.netlify.app/)
+📍 Ontario, Canada | 📞 +1 5144485939 | 📧 arman.bhatia.1407@gmail.com | [LinkedIn](https://www.linkedin.com/in/arman-bhatia/) | [Portfolio](https://portfolioo-arman.netlify.app/)
 
 ---
 
