@@ -10,7 +10,7 @@
 
 ### 💼 Work Experience
 
-#### SME (Subject Matter Expert) - NEWPAGE SOLUTIONS, Texas, USA (Jun 2021 - Dec 2023)
+#### Frontend Developer/SME - NEWPAGE SOLUTIONS, Texas, USA (Jun 2021 - Dec 2023)
 
 - Developed in-house web applications using Node, HTML/CSS
 - Facilitated design thinking workshops for senior executives  
