@@ -41,11 +41,11 @@
 
 ### 🎓 Education
 
-- **Computer Programming and Analysis Diploma** (Expected May 2026)
+- **Computer Programming and Analysis Diploma**
   Algonquin College, Ottawa, CA
   *Major in Software Development and Data Analysis*
 
-- **Interactive Media Design** (May 2019 - May 2021)
+- **Interactive Media Design**
   Algonquin College, Ottawa, CA
   *Major in Web Development and Design*
   *GPA: 3.23/4.0*
