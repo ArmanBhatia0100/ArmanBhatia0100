@@ -36,12 +36,12 @@ I’m a **Full-Stack Developer** with 2 years of experience building impactful w
 
 ## ✨ Featured Projects
 
-1. **[Gym Workout Tracker](https://github.com/ArmanBhatia0100/gym-workout-tracker)**  
+1. **[Gym Workout Tracker]([https://github.com/ArmanBhatia0100/gym-workout-tracker](https://github.com/ArmanBhatia0100/Workout-Tracker-Web-App.git))**  
    ![React](https://img.shields.io/badge/React-Next.js-blue) ![Node.js](https://img.shields.io/badge/Node.js-Express-green)  
    - A web app for logging and tracking workouts with progress charts and goal setting.  
    - Features: JWT auth, Tailwind CSS, MongoDB backend.  
 
-2. **[Project Dashboard](https://github.com/ArmanBhatia0100/project-dashboard)**  
+2. **[Project Dashboard]([https://github.com/ArmanBhatia0100/project-dashboard](https://github.com/ArmanBhatia0100/Product-Management-Dashboard.git))**  
    ![React](https://img.shields.io/badge/React-Tailwind-orange) ![Node.js](https://img.shields.io/badge/Node.js-MongoDB-green)  
    - A responsive dashboard to manage products (add/view/delete) with a sleek UI.  
    - Features: React Router, Material-UI, secure CRUD APIs.  
