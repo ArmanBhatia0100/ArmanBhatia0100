@@ -26,7 +26,7 @@ I’m a **Full-Stack Developer** with 2 years of experience building impactful w
 | **Front-End**       | **Back-End**   | **Tools** |
 |---------------------|----------------|-----------|
 | HTML5              | Java          | Git       |
-| CSS/SCSS/Tailwind  | PHP           |           |
+| CSS/SCSS/Tailwind  | PHP           | Swing     |
 | JavaScript (ES6)   | SQL           |           |
 | React.js/Next.js   | Node.js       |           |
 | Material-UI        | Express.js    |           |
