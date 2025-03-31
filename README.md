@@ -31,6 +31,7 @@ I’m a **Full-Stack Developer** with 2 years of experience building impactful w
 | React.js/Next.js   | Node.js       |           |
 | Material-UI        | Express.js    |           |
 |                    | MongoDB       |           |
+|                    | COBOL         |           |
 
 ---
 
