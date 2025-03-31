@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Arman Bhatia
 
-I’m a **Full-Stack Developer** with 2 years of experience building impactful web solutions and a current student in the **Computer Programming and Analysis** program at Algonquin College (Expected 2026). Based in Canada, I’m passionate about crafting user-friendly apps with **MERN**, **Java**, and **SQL**. Check out my projects below—I’d love to collaborate or chat about code!
+I’m a **Full-Stack Developer** with 2 years of experience building impactful web solutions and  studied in the **Computer Programming and Analysis** program at Algonquin College. Based in Canada, I’m passionate about crafting user-friendly apps with **MERN**, **Java**, **COBOL**, and **SQL**. Check out my projects below—I’d love to collaborate or chat about code!
 
 ---
 
