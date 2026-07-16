@@ -14,7 +14,7 @@
 - 🔍 IT professional transitioning into cybersecurity with **2+ years of enterprise IT support experience**
 - 🏢 Background in **Active Directory**, **Microsoft 365**, endpoint protection, and MFA deployment across 200+ user environments
 - 🧪 Currently building detection & monitoring skills through a **home lab running Kali Linux and pfSense**
-- 🎯 Actively working through SOC-focused rooms on **TryHackMe**
+- 🎯 Actively working through SOC-focused rooms by attacking and defending **Home Labs System**
 - 📜 Holds **CompTIA Security+**, **CompTIA A+**, **Cisco CCNA**, and **eJPT (Junior Penetration Tester)**
 - 📈 Pursuing **CompTIA CySA+** and **Splunk Core** certifications
 - 🎓 Computer Programming and Analysis @ Algonquin College
