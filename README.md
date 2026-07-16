@@ -1,75 +1,70 @@
+<h1 align="center">Hi, I'm Arman Bhatia 👋</h1>
+<h3 align="center">Junior Cybersecurity Professional | SOC Analyst in Training | Red Team Mindset, Blue Team Focus</h3>
 
-# 👋 Hi, I’m Arman Bhatia
-
-I’m a **Full-Stack Developer** with 2 years of experience building impactful web solutions and  studied in the **Computer Programming and Analysis** program at Algonquin College. Based in Canada, I’m passionate about crafting user-friendly apps with **MERN**, **Java**, **COBOL**, and **SQL**. Check out my projects below—I’d love to collaborate or chat about code!
-
----
-
-## 🚀 About Me
-
-- 🎓 **Education**:  
-  - **Computer Programming and Analysis** (Advanced Diploma) | Algonquin College, Ottawa | May 2024 - Expected 2026  
-    - Mastering full-stack dev (Java, JavaScript, SQL) and systems analysis.  
-  - **Media Design** | Algonquin College | 2019 - 2021  
-    - Shaped my UX/UI skills.
-
-- 💼 **Experience**:  
-  - **Jr Frontend Developer** | NewPage Solutions, Ottawa | Jan 2022 - Dec 2023  
-    - Built 5+ websites, boosting engagement by 25% and cutting load times by 35%.  
-
-- 🌟 **Fun Fact**: I’ve been coding since grade 8—tech’s my lifelong playground!
+<p align="center">
+  <a href="https://www.linkedin.com/in/arman-bhatia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolioo-arman.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="mailto:arman.bhatia.1407@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Skills
+### 🛡️ About Me
 
-| **Front-End**       | **Back-End**   | **Tools** |
-|---------------------|----------------|-----------|
-| HTML5              | Java          | Git       |
-| CSS/SCSS/Tailwind  | PHP           | Swing     |
-| JavaScript (ES6)   | SQL           |           |
-| React.js/Next.js   | Node.js       |           |
-| Material-UI        | Express.js    |           |
-|                    | MongoDB       |           |
-|                    | COBOL         |           |
+- 🔍 IT professional transitioning into cybersecurity with **2+ years of enterprise IT support experience**
+- 🏢 Background in **Active Directory**, **Microsoft 365**, endpoint protection, and MFA deployment across 200+ user environments
+- 🧪 Currently building detection & monitoring skills through a **home lab running Kali Linux and pfSense**
+- 🎯 Actively working through SOC-focused rooms on **TryHackMe**
+- 📜 Holds **CompTIA Security+**, **CompTIA A+**, **Cisco CCNA**, and **eJPT (Junior Penetration Tester)**
+- 📈 Pursuing **CompTIA CySA+** and **Splunk Core** certifications
+- 🎓 Computer Programming and Analysis @ Algonquin College
 
 ---
 
-## ✨ Featured Projects
+### 🧰 Core Skills
 
-1. **[Gym Workout Tracker](https://github.com/ArmanBhatia0100/Workout-Tracker-Web-App.git)**  
-   ![React](https://img.shields.io/badge/React-Next.js-blue) ![Node.js](https://img.shields.io/badge/Node.js-Express-green)  
-   - A web app for logging and tracking workouts with progress charts and goal setting.  
-   - Features: JWT auth, Tailwind CSS, MongoDB backend.  
+**Security & Monitoring**
+`Splunk Enterprise Security` `Wireshark` `Log Analysis` `Incident Documentation` `Endpoint Security` `MFA`
 
-2. **[Project Dashboard](https://github.com/ArmanBhatia0100/Product-Management-Dashboard.git)**  
-   ![React](https://img.shields.io/badge/React-Tailwind-orange) ![Node.js](https://img.shields.io/badge/Node.js-MongoDB-green)  
-   - A responsive dashboard to manage products (add/view/delete) with a sleek UI.  
-   - Features: React Router, Material-UI, secure CRUD APIs.  
+**Networking**
+`Active Directory` `Microsoft 365` `Cisco CCNA` `pfSense` `TCP/IP Fundamentals`
 
----
+**Offensive Security**
+`Kali Linux` `Nmap` `Enumeration & Footprinting` `Vulnerability Assessment`
 
-## 🏆 Certifications & Awards
+**Certifications**
 
-- **Certifications**:  
-  - The Ultimate Git Course  
-  - CCNA  
-  - Complete JavaScript Course  
-  - Learn Java OOP  
-  - CIPS Ontario Membership  
-
-- **Awards**:  
-  - Study Skill Scholar  
-  - Dean’s Honors List  
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)
+![A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=flat-square)
+![eJPT](https://img.shields.io/badge/INE-eJPT-orange?style=flat-square)
 
 ---
 
-## 📫 Connect With Me
+### 💼 Experience Highlights
 
-- 📧 [arman.bhatia.1407@gmail.com](mailto:arman.bhatia.1407@gmail.com)  
-- 📞 514-448-5939  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arman-bhatia)  
-- 🌐 [Portfolio](https://portfolioo-arman.netlify.app)  
-- 🐙 [GitHub](https://github.com/ArmanBhatia0100)  
+**IT Support Analyst** — Newpage Solutions *(Jan 2021 – Feb 2023)*
+- First point of contact for hardware, software, and network issues across 200+ users
+- Managed AD & M365 accounts, onboarding/offboarding, and least-privilege access
+- Supported MFA enrollment, password resets, and endpoint compliance
+- Documented recurring issues to improve resolution time and team consistency
 
 ---
+
+### 🧪 What I'm Working On
+
+- 🖥️ Home lab environments for network reconnaissance and enumeration practice
+- 📊 Building Splunk dashboards and detection rules for common attack patterns
+- 📝 Writing up lab exercises and walkthroughs to document my learning
+
+---
+
+### 📫 Let's Connect
+
+I'm actively looking for **L1 SOC Analyst** and **Cybersecurity Associate** roles in the Greater Toronto Area / remote. Feel free to reach out!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arman-bhatia" target="_blank">LinkedIn</a> •
+  <a href="https://portfolioo-arman.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="mailto:arman.bhatia.1407@gmail.com">Email</a>
+</p>
