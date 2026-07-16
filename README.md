@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arman Bhatia 👋</h1>
-<h3 align="center">Junior Cybersecurity Professional | SOC Analyst in Training | Red Team Mindset, Blue Team Focus</h3>
+<h3 align="center">Junior Cybersecurity Professional | SOC Analyst | Red Team Mindset, Blue Team Focus</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arman-bhatia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
