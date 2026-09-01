@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Arman Bhatia 👋</h1>
-<h3 align="center">Junior Cybersecurity Professional | SOC Analyst | Red Team Mindset, Blue Team Focus</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arman-bhatia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -42,7 +41,7 @@
 
 ### 💼 Experience Highlights
 
-**IT Support Analyst** — Newpage Solutions *(Jan 2021 – Feb 2023)*
+**IT Support Analyst** — Newpage Solutions *(Jan 2024 – Feb 2026)*
 - First point of contact for hardware, software, and network issues across 200+ users
 - Managed AD & M365 accounts, onboarding/offboarding, and least-privilege access
 - Supported MFA enrollment, password resets, and endpoint compliance
@@ -60,7 +59,7 @@
 
 ### 📫 Let's Connect
 
-I'm actively looking for **L1 SOC Analyst** and **Cybersecurity Associate** roles in the Greater Toronto Area / remote. Feel free to reach out!
+I'm actively looking for roles in the Greater Toronto Area / remote. Feel free to reach out!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arman-bhatia" target="_blank">LinkedIn</a> •
